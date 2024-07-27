@@ -1,0 +1,39 @@
+# IntelliJ IDEA
+*.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# SBT
+project
+target/
+project/target/
+project/project/
+project/project/target/
+project/project/project/
+
+# Compiled files
+*.class
+*.log
+*.tmp
+*.swp
+*.swo
+
+# SBT specific
+*.sbt.lock
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Maven
+.m2/
+
+# Build artifacts
+*.jar
+*.war
+*.ear
+
+# IDEs
+.vscode/
