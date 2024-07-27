@@ -4,13 +4,13 @@
 
 ### Lancer le Projet
 - Depuis un shell `sbt` : Exécutez la commande `run`.
-- Depuis IntelliJ : Cliquez sur le bouton de **Run**.
+- Depuis IntelliJ : Cliquez sur le bouton **Run** pour run le **Main**.
 
 ## Projet Wator
 
 ### Lancer le Projet
 - Depuis un shell `sbt` : Exécutez la commande `run`.
-- Depuis IntelliJ : Cliquez sur le bouton de **Run**.
+- Depuis IntelliJ : Cliquez sur le bouton **Run** pour run le **Main**.
 
 ## Projet Predateur-Proie
 
